@@ -1,0 +1,4 @@
+funz int programma() {
+    stampa("ciao mondo");
+    ritorna 0;
+}
